@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Inception",
+    "releaseDate": "2010-07-16",
+    "genre": "Science Fiction",
+    "director": "Christopher Nolan",
+    "rating": "8.8"
+  },
+  {
+    "id": "2",
+    "title": "The Godfather",
+    "releaseDate": "1972-03-24",
+    "genre": "Crime",
+    "director": "Francis Ford Coppola",
+    "rating": "9.2"
+  },
+  {
+    "id": "3",
+    "title": "The Dark Knight",
+    "releaseDate": "2008-07-18",
+    "genre": "Action",
+    "director": "Christopher Nolan",
+    "rating": "9.0"
+  },
+  {
+    "id": "4",
+    "title": "Pulp Fiction",
+    "releaseDate": "1994-10-14",
+    "genre": "Crime",
+    "director": "Quentin Tarantino",
+    "rating": "8.9"
+  },
+  {
+    "id": "5",
+    "title": "The Lord of the Rings: The Return of the King",
+    "releaseDate": "2003-12-17",
+    "genre": "Fantasy",
+    "director": "Peter Jackson",
+    "rating": "8.9"
+  },
+  {
+    "id": "6",
+    "title": "Forrest Gump",
+    "releaseDate": "1994-07-06",
+    "genre": "Drama",
+    "director": "Robert Zemeckis",
+    "rating": "8.8"
+  },
+  {
+    "id": "7",
+    "title": "Fight Club",
+    "releaseDate": "1999-10-15",
+    "genre": "Drama",
+    "director": "David Fincher",
+    "rating": "8.8"
+  },
+  {
+    "id": "8",
+    "title": "The Matrix",
+    "releaseDate": "1999-03-31",
+    "genre": "Science Fiction",
+    "director": "The Wachowskis",
+    "rating": "8.7"
+  },
+  {
+    "id": "9",
+    "title": "Goodfellas",
+    "releaseDate": "1990-09-19",
+    "genre": "Crime",
+    "director": "Martin Scorsese",
+    "rating": "8.7"
+  },
+  {
+    "id": "10",
+    "title": "The Shawshank Redemption",
+    "releaseDate": "1994-09-23",
+    "genre": "Drama",
+    "director": "Frank Darabont",
+    "rating": "9.3"
+  }
+]
