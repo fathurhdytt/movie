@@ -5,7 +5,8 @@
     "releaseDate": "2010-07-16",
     "genre": "Science Fiction",
     "director": "Christopher Nolan",
-    "rating": "8.8"
+    "rating": "8.8",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
   },
   {
     "id": "2",
@@ -13,7 +14,8 @@
     "releaseDate": "1972-03-24",
     "genre": "Crime",
     "director": "Francis Ford Coppola",
-    "rating": "9.2"
+    "rating": "9.2",
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeKvuGtaY91CcTTAMHkdL9zdQalEnwsQZQDs2gFwxg4g&s"
   },
   {
     "id": "3",
@@ -21,7 +23,8 @@
     "releaseDate": "2008-07-18",
     "genre": "Action",
     "director": "Christopher Nolan",
-    "rating": "9.0"
+    "rating": "9.0",
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROE5xwAH1C5P47qMAyG2rffn9KF4JjWks7sbBXPy1TJw&s"
   },
   {
     "id": "4",
@@ -29,7 +32,8 @@
     "releaseDate": "1994-10-14",
     "genre": "Crime",
     "director": "Quentin Tarantino",
-    "rating": "8.9"
+    "rating": "8.9",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
   },
   {
     "id": "5",
@@ -37,7 +41,8 @@
     "releaseDate": "2003-12-17",
     "genre": "Fantasy",
     "director": "Peter Jackson",
-    "rating": "8.9"
+    "rating": "8.9",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
   },
   {
     "id": "6",
@@ -45,7 +50,8 @@
     "releaseDate": "1994-07-06",
     "genre": "Drama",
     "director": "Robert Zemeckis",
-    "rating": "8.8"
+    "rating": "8.8",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTY4NjcxNDctZmVjMC00NzM0LWIxYTctNjdhNzdlN2VkNjNiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
   },
   {
     "id": "7",
@@ -53,7 +59,8 @@
     "releaseDate": "1999-10-15",
     "genre": "Drama",
     "director": "David Fincher",
-    "rating": "8.8"
+    "rating": "8.8",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
   },
   {
     "id": "8",
@@ -61,7 +68,8 @@
     "releaseDate": "1999-03-31",
     "genre": "Science Fiction",
     "director": "The Wachowskis",
-    "rating": "8.7"
+    "rating": "8.7",
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcgBJGoclqi7UrGpMr3meUb_OeZd8XovrTL2HLUSds7g&s"
   },
   {
     "id": "9",
@@ -69,7 +77,8 @@
     "releaseDate": "1990-09-19",
     "genre": "Crime",
     "director": "Martin Scorsese",
-    "rating": "8.7"
+    "rating": "8.7",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
   },
   {
     "id": "10",
@@ -77,6 +86,7 @@
     "releaseDate": "1994-09-23",
     "genre": "Drama",
     "director": "Frank Darabont",
-    "rating": "9.3"
+    "rating": "9.3",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
   }
 ]
